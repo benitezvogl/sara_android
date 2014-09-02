@@ -1,0 +1,6 @@
+set solib-search-path /Users/cyancdesign/Desktop/Android_Dev/of_v0.8.1_android_release/apps/myApps/SARA_Android//obj/local/armeabi:/Users/cyancdesign/Desktop/Android_Dev/of_v0.8.1_android_release/apps/myApps/SARA_Android//libs/armeabi
+directory /Users/cyancdesign/Desktop/Android_Dev/android-ndk-r9b/platforms/android-17/arch-arm/usr/include
+directory /Users/cyancdesign/Desktop/Android_Dev/of_v0.8.1_android_release/apps/myApps/SARA_Android//src
+directory /Users/cyancdesign/Desktop/Android_Dev/android-ndk-r9b/sources/cxx-stl/system
+directory /Users/cyancdesign/Desktop/Android_Dev/of_v0.8.1_android_release/apps/myApps/SARA_Android//libs/armeabi
+

@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	
+    <group android:id="@+id/PD_file" android:checkableBehavior="single">
+        <item android:id="@+id/accel_patch"
+              android:title="@string/accel_patch" />
+	    <item android:id="@+id/color_patch"
+              android:title="@string/color_patch" />
+	    <item android:id="@+id/accel_synth_patch"
+              android:title="@string/accel_synth_patch" />
+		<item android:id="@+id/color_synth_patch"
+              android:title="@string/color_synth_patch" />
+		<!-- item android:id="@+id/arpeggio_synth"
+              android:title="@string/arpeggio_synth" / -->
+	</group>
+    <group android:id="@+id/camera" android:checkableBehavior="single">
+	    <item android:id="@+id/front_camera"
+              android:title="@string/front_camera" />
+	    <item android:id="@+id/back_camera"
+              android:title="@string/back_camera" />
+	</group>
+    <group android:id="@+id/display" android:checkableBehavior="single">
+	    <item android:id="@+id/display_on"
+              android:title="@string/display_on" />
+	    <item android:id="@+id/display_off"
+              android:title="@string/display_off" />
+	</group>
+    <group android:id="@+id/video_filter" android:checkableBehavior="single">
+	    <item android:id="@+id/none"
+              android:title="@string/none" />
+	    <item android:id="@+id/black_white"
+              android:title="@string/black_white" />
+	    <item android:id="@+id/invert"
+              android:title="@string/invert" />
+	    <item android:id="@+id/pixels"
+              android:title="@string/pixels" />
+	</group>
+    <group android:id="@+id/about" android:checkableBehavior="single">
+	    <item android:id="@+id/about_app"
+              android:title="@string/about_app" />
+	</group>
+</menu>

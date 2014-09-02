@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SARA</string>
+    <string name="hello_world"></string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <!--  
+    <string name="gyro_file">Gyro Pd File</string>
+    <string name="color_file">Color Rd File</string>
+    <string name="combo_file">Combo Pd File</string>
+    -->
+    <string name="about_app">Learn More About SARA</string>
+    
+    <string name="accel_patch">Accelerometer Patch</string>
+    <string name="color_patch">Color Patch</string>
+    <string name="accel_synth_patch">Accelerometer Synth Patch</string>
+    <string name="color_synth_patch">Color Synth Patch</string>
+    <string name="arpeggio_synth">Arpeggio Synth Patch (accelerometer &amp; color)</string>
+
+    <string name="front_camera">Front Camera</string>
+    <string name="back_camera">Back Camera</string>
+    
+    <string name="display_on">Show Values</string>
+    <string name="display_off">Hide Values</string>
+    
+    <string name="none">No Video Filters</string>
+    <string name="black_white">Black and White</string>
+    <string name="invert">Inverted Colors</string>
+    <string name="pixels">Pixelated</string>
+
+</resources>
